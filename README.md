@@ -1,2 +1,2 @@
-# edtech-client
+# edtech-hackathon
 Add info here
