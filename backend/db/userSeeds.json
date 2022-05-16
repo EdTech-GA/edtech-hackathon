@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Milk",
+    "howMuch": 2,
+    "eaten": 0,
+    "remaining": 2,
+    "minimum": 0.125,
+    "unitMeasure": "gallon(s)",
+    "purchased": false,
+    "Date": "2022-04-11",
+    "img": "",
+    "type": "food"
+  }
+]
