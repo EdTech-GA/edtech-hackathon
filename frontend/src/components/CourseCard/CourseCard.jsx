@@ -10,9 +10,6 @@ export default function CourseCard () {
           <Card.Subtitle className='mb-2 text-muted'>
             Teacher Name
           </Card.Subtitle>
-          <Card.Text>
-            Description of Course
-          </Card.Text>
           <Card.Link href='#'>Link to Details Page</Card.Link>
         </Card.Body>
       </Card>
