@@ -4,10 +4,12 @@ import './index.scss'
 
 import App from './App'
 import { BrowserRouter } from 'react-router-dom'
+import SyllabusForm from './components/SyllabusForm/SyllabusForm'
 
 const appJsx = (
   <BrowserRouter basename={process.env.PUBLIC_URL}>
     <App />
+    <SyllabusForm />
   </BrowserRouter>
 )
 
