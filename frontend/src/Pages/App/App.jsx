@@ -1,3 +1,7 @@
+
+
+
+
 const DUMMY_DATA = [
   {
     courseName: 'Accessibility in the Modern Age',

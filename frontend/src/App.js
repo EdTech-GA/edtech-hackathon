@@ -51,7 +51,10 @@ const App = () => {
             path='/change-password'
             element={<ChangePassword msgAlert={msgAlert} user={user} /> }
           />
-
+           <Route
+              path="/syllabus"
+              element={<SyllabusPage data={DUMMY_DATA} />}
+            />
         </Routes>
       </main>
     </>
