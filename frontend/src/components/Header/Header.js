@@ -8,6 +8,7 @@ const authenticatedOptions = (
   <>
     <NavLink to='/change-password' className='nav-link'>Change Password</NavLink>
     <NavLink to='/sign-out' className='nav-link'>Sign Out</NavLink>
+    <NavLink to='/' className='nav-link'>Add a Syllabus</NavLink>
   </>
 )
 
@@ -21,6 +22,7 @@ const unauthenticatedOptions = (
 const alwaysOptions = (
   <>
     <NavLink to='/' className='nav-link'>Home</NavLink>
+    <NavLink to='/courses' className='nav-link'>Courses</NavLink>
   </>
 )
 
